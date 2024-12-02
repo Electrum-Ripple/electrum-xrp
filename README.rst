@@ -4,24 +4,26 @@
     :target: https://coveralls.io/github/spesmilo/electrumx
 
 ===============================================
-ElectrumX - Reimplementation of electrum-server
+Electrum Ripple (XRP)
 ===============================================
 
   :Licence: MIT
   :Language: Python (>= 3.8)
   :Original Author: Neil Booth
 
-This project is a fork of `kyuupichan/electrumx <https://github.com/kyuupichan/electrumx>`_.
-The original author dropped support for Bitcoin, which we intend to keep.
+**Electrum Ripple** is a secure, fast, and lightweight wallet for XRP, designed to optimize transaction speed while maintaining security.  
 
-ElectrumX allows users to run their own Electrum server. It connects to your
-full node and indexes the blockchain, allowing efficient querying of the history of
-arbitrary addresses. The server can be exposed publicly, and joined to the public network
-of servers via peer discovery. As of May 2020, a significant chunk of the public
-Electrum server network runs ElectrumX.
-
-Documentation
+Features  
 =============
 
-See `readthedocs <https://electrumx-spesmilo.readthedocs.io/>`_.
+- **Lightning-Fast Transactions**: XRP's transaction speed is complemented by Electrum’s efficient syncing.  
+- **Secure**: Advanced encryption and multi-signature support.  
+- **Cross-Platform**: Works on Windows, macOS, and Linux.  
+- **Hardware Wallet Integration**: Supports Ledger, Trezor, and more.  
 
+License  
+=============
+
+This project is licensed under the MIT License. See the `LICENSE`_ for details.
+
+.. _LICENSE: https://github.com/Electrum-Ripple/electrum-xrp/blob/master/LICENCE
