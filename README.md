@@ -1,6 +1,6 @@
 # 🌊 Electrum XRP: Lightweight Ripple Wallet
 
-[![License](https://img.shields.io/github/license/Electrum-Ripple/electrum-xrp)](https://github.com/Electrum-Ripple/electrum-xrp/blob/main/LICENCE)
+[![License](https://img.shields.io/github/license/Electrum-Ripple/electrum-xrp)](https://github.com/Electrum-Ripple/electrum-xrp/blob/master/LICENCE)
 [![Latest Release](https://img.shields.io/github/v/release/Electrum-Ripple/electrum-xrp)](https://github.com/Electrum-Ripple/electrum-xrp/releases)
 
 **Electrum XRP** is a simple, fast, and secure wallet for managing Ripple (XRP). It ensures quick transactions without requiring a full blockchain download, making it perfect for users who value speed and control over their assets.
@@ -35,7 +35,7 @@ Choose your operating system to download the latest version:
 
 ## 📚 Documentation
 
-For more information and help, visit the [Documentation](https://github.com/Electrum-Ripple/electrum-xrp/tree/main/docs) section.
+For more information and help, visit the [Documentation](https://github.com/Electrum-Ripple/electrum-xrp/tree/master/docs) section.
 
 ---
 
